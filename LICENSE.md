@@ -1,32 +1,33 @@
-HISTORY OF THE SOFTWARE
-=======================
+# HISTORY OF THE SOFTWARE
 
 Python was created in the early 1990s by Guido van Rossum at Stichting
 Mathematisch Centrum (CWI) in the Netherlands as a successor of a
-language called ABC.  Guido is Python's principal author, although it
+language called ABC. Guido is Python's principal author, although it
 includes many contributions from others.  The last version released
-from CWI was Python 1.2.  In 1995, Guido continued his work on Python
-at the Corporation for National Research Initiatives (CNRI) in Reston,
-Virginia where he released several versions of the software.  Python
-1.6 was the last of the versions released by CNRI.  In 2000, Guido and
-the Python core developement team moved to BeOpen.com to form the
-BeOpen PythonLabs team (www.pythonlabs.com).  Python 2.0 is the first
-release from PythonLabs.  Thanks to the many outside volunteers who
-have worked under Guido's direction to make this release possible.
+from CWI was Python 1.2.
 
+In 1995, Guido continued his work on Python at the Corporation for National
+Research Initiatives (CNRI) in Reston, Virginia where he released several
+versions of the software. Python 1.6 was the last of the versions released
+by CNRI.
 
+In 2000, Guido and the Python core developement team moved to BeOpen.com to
+form the BeOpen PythonLabs team (www.pythonlabs.com).  Python 2.0 is the first
+release from PythonLabs.
 
-BEOPEN.COM TERMS AND CONDITIONS FOR PYTHON 2.0
-==============================================
+Thanks to the many outside volunteers who have worked under Guido's direction
+to make this release possible.
 
-BEOPEN PYTHON OPEN SOURCE LICENSE AGREEMENT VERSION 1
------------------------------------------------------
+---
+
+## BEOPEN.COM TERMS AND CONDITIONS FOR PYTHON 2.0
+
+### BEOPEN PYTHON OPEN SOURCE LICENSE AGREEMENT VERSION 1
 
 1. This LICENSE AGREEMENT is between BeOpen.com ("BeOpen"), having an
-office at 160 Saratoga Avenue, Santa Clara, CA 95051, and the
-Individual or Organization ("Licensee") accessing and otherwise using
-this software in source or binary form and its associated
-documentation ("the Software").
+office at 160 Saratoga Avenue, Santa Clara, CA 95051, and the Individual
+or Organization ("Licensee") accessing and otherwise using this software
+in source or binary form and its associated documentation ("the Software").
 
 2. Subject to the terms and conditions of this BeOpen Python License
 Agreement, BeOpen hereby grants Licensee a non-exclusive,
@@ -66,11 +67,11 @@ permissions granted on that web page.
 agrees to be bound by the terms and conditions of this License
 Agreement.
 
+---
 
-CNRI OPEN SOURCE LICENSE AGREEMENT
-----------------------------------
+## CNRI OPEN SOURCE LICENSE AGREEMENT
 
-Python 1.6 CNRI OPEN SOURCE LICENSE AGREEMENT
+### Python 1.6 CNRI OPEN SOURCE LICENSE AGREEMENT
 
 IMPORTANT: PLEASE READ THE FOLLOWING AGREEMENT CAREFULLY. BY CLICKING
 ON "ACCEPT" WHERE INDICATED BELOW, OR BY COPYING, INSTALLING OR
@@ -139,9 +140,9 @@ by the terms and conditions of this License Agreement.
 
 ACCEPT
 
+---
 
-CWI PERMISSIONS STATEMENT AND DISCLAIMER
-----------------------------------------
+### CWI PERMISSIONS STATEMENT AND DISCLAIMER
 
 Copyright (c) 1991 - 1995, Stichting Mathematisch Centrum Amsterdam,
 The Netherlands.  All rights reserved.

@@ -1,11 +1,10 @@
 
-
                                 PYTHON 2.0
                           NOTES ON THE AMIGA PORT
 
                              October 28, 2000.
 
-	
+
            Conversion and Amiga specific code by Irmen de Jong.
               (Original code by Guido van Rossum and others)
 

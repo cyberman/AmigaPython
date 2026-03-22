@@ -17,9 +17,7 @@ Amiga Python has always aimed to be as complete a port of Python as it makes
 sense to be for the Amiga platform, and includes Amiga specific builtin modules
 for native functionality including the _amiga_ and _arexx_ modules.
 
-In the process of updating Amiga Python to 2.7.18, amigazen project intends to
-make the following changes to reflect the reality of building and running Amiga
-software in 2025:
+## Changes in 2025:
 
 - Remove support for INet225 and update AmiTCP support to reflect the RoadShow
  version of bsdsocket.library
